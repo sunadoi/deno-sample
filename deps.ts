@@ -4,3 +4,4 @@ export {
   Router,
   helpers,
 } from "https://deno.land/x/oak@v7.7.0/mod.ts";
+export { superoak } from "https://deno.land/x/superoak@4.4.0/mod.ts";
